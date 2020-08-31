@@ -1,4 +1,5 @@
 # Sentiment-and-Semantic-Analysis-tool-
+by Pavansai Kuramsetti
 
 •	Semantic and Sentimental analysis of extracted Twitter tweets and NewsAPI data respectively.
 
